@@ -31,6 +31,6 @@
 
 <div align="center">
 
-![Mobile Version](https://raw.githubusercontent.com/RobsonVinicius/email-marketing-responsivo/master/thumbnai-mobilel.png)
+![Mobile Version](https://raw.githubusercontent.com/RobsonVinicius/email-marketing-responsivo/master/thumbnail-mobile.png)
 
 </div>
