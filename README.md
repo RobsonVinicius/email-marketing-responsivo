@@ -8,7 +8,7 @@
 
 * The Ultimate Guide to CSS (https://www.campaignmonitor.com/css/) | *Guia de Suporte CSS para clients de e-mail*
 * Bulletproof email buttons (https://buttons.cm/) | *Botões com compatibilidade para clients de e-mail*
-* Premailer (http://premailer.dialect.ca/) | *Transforma o CSS para inline e faz alguns ajustes conforme necessário
+* Premailer (http://premailer.dialect.ca/) | *Transforma o CSS para inline e faz alguns ajustes conforme necessário*
 
 <br>
 
